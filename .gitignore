@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea
+
+**.iml
+
+notebooks/.ipynb_checkpoints
+
+data/账户交易信息.csv
