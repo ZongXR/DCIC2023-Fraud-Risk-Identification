@@ -135,3 +135,5 @@ dmypy.json
 notebooks/.ipynb_checkpoints
 
 data/账户交易信息.csv
+
+data/~$**.xlsx
